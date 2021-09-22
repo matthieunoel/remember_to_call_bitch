@@ -1,0 +1,7 @@
+{
+  "name": "remember_to_call_bitch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
